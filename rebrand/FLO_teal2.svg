@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26.299999mm"
+   height="26.299999mm"
+   viewBox="0 0 26.299999 26.299999"
+   version="1.1"
+   id="svg475"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="FLO_teal2.svg">
+  <defs
+     id="defs469">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath445">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g441"
+         id="use447"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <linearGradient
+       id="SVGID_6_"
+       gradientUnits="userSpaceOnUse"
+       x1="67.484901"
+       y1="264.77151"
+       x2="67.484901"
+       y2="166.29739">
+      <stop
+         offset="0"
+         style="stop-color:#2283A6"
+         id="stop382" />
+      <stop
+         offset="0.5"
+         style="stop-color:#217EA3"
+         id="stop384" />
+      <stop
+         offset="1"
+         style="stop-color:#207AA0"
+         id="stop386" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_6_"
+       id="linearGradient1015"
+       gradientUnits="userSpaceOnUse"
+       x1="67.484901"
+       y1="264.77151"
+       x2="67.484901"
+       y2="166.29739" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="37.466325"
+     inkscape:cy="55.135385"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata472">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.7)">
+    <g
+       transform="matrix(0.26458761,0,0,0.26458333,-4.7056954,226.8233)"
+       id="g443"
+       clip-path="url(#clipPath445)">
+      <g
+         inkscape:label="Clip"
+         id="g441">
+        <circle
+           style="fill:url(#linearGradient1015)"
+           id="circle389"
+           r="49.237"
+           cy="215.534"
+           cx="67.485001" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff"
+           id="path391"
+           d="m 67.485,231.746 c -4.307,5.689 -4.307,11.285 0,16.786 4.308,-5.501 4.308,-11.096 0,-16.786 m 0,-46.449 c -9.886,12.471 -9.886,25.158 0,38.062 9.888,-12.904 9.887,-25.591 0,-38.062 z m -22.392,55.588 c 3.645,-8.283 11.279,-12.373 19.806,-12.269 -10.818,-11.228 -20.214,-15.751 -28.187,-13.566 1.059,6.189 5.365,11.448 12.913,15.783 -8.686,-2.743 -15.219,-9.377 -19.6,-19.899 13.031,-2.216 23.291,0.998 30.782,9.627 -6.831,-14.604 -4.607,-29.011 6.678,-43.22 11.285,14.209 13.509,28.616 6.68,43.22 7.491,-8.629 17.75,-11.843 30.782,-9.627 -4.381,10.522 -10.914,17.156 -19.599,19.899 7.549,-4.335 11.852,-9.594 12.913,-15.783 -7.974,-2.185 -17.371,2.341 -28.188,13.566 8.527,-0.104 16.162,3.983 19.806,12.269 -6.443,1.439 -11.742,0.453 -15.894,-2.963 4.536,2.295 8.451,2.639 11.744,1.027 -1.442,-4.36 -7.817,-7.373 -15.971,-9.038 4.651,8.056 3.895,15.995 -2.273,23.815 -6.166,-7.82 -6.923,-15.761 -2.273,-23.815 -8.152,1.665 -14.527,4.678 -15.969,9.038 3.292,1.609 7.207,1.268 11.743,-1.027 -4.152,3.416 -9.45,4.402 -15.893,2.963 z" />
+      </g>
+    </g>
+  </g>
+</svg>

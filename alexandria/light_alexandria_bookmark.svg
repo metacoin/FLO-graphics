@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>light_alexandria_bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M295.349388,57.6164193 L295.349388,57.5969459 C295.349388,57.5969459 296.860473,56.8403869 299.7283,55.5140337 C360.62851,26.6425171 428.345961,9.80844953 499.807614,8.08486961 C503.461349,7.98800447 507.134932,7.9379845 510.825746,7.9379845 C511.010973,7.9379845 511.196156,7.93811048 511.381296,7.93836204 C511.587514,7.93811036 511.793742,7.9379845 512,7.9379845 C786.001736,7.9379845 1008.12403,230.060279 1008.12403,504.062016 C1008.12403,778.063752 786.001736,1000.18605 512,1000.18605 C237.998264,1000.18605 15.875969,778.063752 15.875969,504.062016 C15.875969,307.739869 129.907278,138.051161 295.349354,57.6164357 Z M295.349388,102.489431 C152.702185,179.610628 55.8007431,330.520049 55.8007431,504.062016 C55.8007431,756.013908 260.048108,960.261272 512,960.261272 C763.951892,960.261272 968.199257,756.013908 968.199257,504.062016 C968.199257,329.569356 870.233221,177.95789 726.302162,101.228632 L726.302096,720.712628 L510.825742,503.125555 L295.349388,720.712628 L295.349388,102.489431 Z" id="path-1"></path>
+        <filter x="-2.8%" y="-2.0%" width="105.6%" height="105.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="light_alexandria_bookmark">
+            <g id="4_alexandria_bookmark_logo_dark_250X250">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
