@@ -7,10 +7,10 @@ FLO rebrand graphics repository
 ### New coin logo
 ![FLO](FLO_teal2.png?raw=true "FLO")
 
-### FLO twitter
+### FLO twitter icon
 ![FLO](FLO_twitter_300.png?raw=true "FLO")
 
-### FLO testnet
+### FLO testnet icon
 ![FLO](FLO_testnet2.png?raw=true "FLO")
 
 ### White w/ no background
@@ -20,6 +20,8 @@ FLO rebrand graphics repository
 ![FLO](FLO_black_nobg.png?raw=true "FLO")
 
 ## SVG
+
+If the image doesn't show up on the page then right click on the link and click "Save Link As" or "Save As" to save each file individually.
 
 ### New coin logo
 ![FLO](FLO_teal2.svg?raw=true "FLO")
