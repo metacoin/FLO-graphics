@@ -42,3 +42,18 @@ Before the rebrand these graphics were used for Florincoin(FLO):
 
 ## Flat icon
 ![flat icon](florincoin-logo-135x135.png?raw=true "flat icon")
+
+
+## Tools
+
+Find files that aren't PSD'd yet
+```
+find . -regex  '\(.*xcf\|.*psd\)$' | cut -d '.' -f 2 | uniq | awk '{print "."$1".xcf"}'
+find . -regex  '\(.*xcf\|.*psd\)$' | cut -d '.' -f 2 | sort | uniq -u | awk '{print "."$1".xcf"}'
+```
+
+Convert to psd
+```
+convert *.xcf *.psd
+```
+
