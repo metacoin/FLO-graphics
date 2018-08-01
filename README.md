@@ -8,7 +8,26 @@ All rebrand graphics can be found [here](rebrand/README.md). Below are some of t
 ## New coin logo
 ![FLO](rebrand/FLO_teal2.png?raw=true "FLO")
 
-## Twitter icon 
+## FLO Pulse
+
+### Twitter icon
+![FLO Pulse](rebrand/FLO_white_redorangebgdarker.png)
+
+### FLO Pulse Style Guide
+Two gradient colors:
+(new)
+#F85D28 orange
+#F80000 red
+
+(original)
+#FF6029 orange
+#FF0000 red
+With brightness -9
+
+Orange goes on top
+
+
+## Lightblue icon 
 ![FLO](rebrand/FLO_twitter_300.png?raw=true "twitter logo")
 
 # Previous Florincoin graphics (before the rebrand)
